@@ -32,13 +32,13 @@ https://www.python.org/downloads/
 Download the project files or clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/fimbuki-design/alu_regex-data-extraction-fimbuki-design-.git
 ```
 
 ### 3. Navigate to the Project Folder
 
 ```bash
-cd <project-folder>
+cd 
 ```
 
 ### 4. Run the Program

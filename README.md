@@ -46,7 +46,7 @@ cd <project-folder>
 Execute the Python file:
 
 ```bash
-python main.py
+python extractor.py
 ```
 
 ## Expected Output

@@ -38,7 +38,7 @@ git clone https://github.com/fimbuki-design/alu_regex-data-extraction-fimbuki-de
 ### 3. Navigate to the Project Folder
 
 ```bash
-cd 
+cd ./alu_regex-data-extraction-fimbuki-design-
 ```
 
 ### 4. Run the Program
